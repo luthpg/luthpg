@@ -48,9 +48,9 @@ I love building tools that make life easier — especially with Google Apps Scri
 
 ## Zenn Status
 
-<p asign="center">
-  [![](https://github-readme-blog-score.vercel.app/api/get_zenn_score?zennId=luth&v=2)](https://zenn.dev/luth)
-</p>
+[![](https://github-readme-blog-score.vercel.app/api/get_zenn_score?zennId=luth&v=2)](https://zenn.dev/luth)
+
+---
 
 > “Turning daily hassles into comfort.”
 
