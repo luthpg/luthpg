@@ -16,6 +16,7 @@ I love building tools that make life easier — especially with Google Apps Scri
 ## 🌟 Featured Projects
 
 - [@ciderjs/gasnuki](https://github.com/luthpg/gasnuki): GAS utility for modern workflows.
+- [@ciderjs/gasbombe](https://github.com/luthpg/gasbombe): Project Generator for Google Apps Script.
 - [@ciderjs/dgs](https://github.com/luthpg/dgs): Utility library to handle Google Apps Script "Libraries" with TypeScript.
 - [vite-plugin-google-apps-script](https://github.com/luthpg/vite-plugin-google-apps-script): Utility plugin to upload Vite-built HTML to GAS.
 - [rolldown-plugin-remove-export](https://github.com/luthpg/rolldown-plugin-remove-export): Rolldown plugin for cleaning exports.
@@ -27,6 +28,7 @@ I love building tools that make life easier — especially with Google Apps Scri
 ## ✨ Portfolio
 
 - 📘 [Zenn](https://zenn.dev/luth)
+- 📚 [Qiita](https://qiita.com/luth)
 - 🧑‍💻 [Lapras](https://lapras.com/public/luth)
 
 ---
