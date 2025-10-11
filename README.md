@@ -15,13 +15,20 @@ I love building tools that make life easier — especially with Google Apps Scri
 
 ## 🌟 Featured Projects
 
+### Development Tools
 - [@ciderjs/gasnuki](https://github.com/luthpg/gasnuki): GAS utility for modern workflows.
 - [@ciderjs/gasbombe](https://github.com/luthpg/gasbombe): Project Generator for Google Apps Script.
 - [@ciderjs/dgs](https://github.com/luthpg/dgs): Utility library to handle Google Apps Script "Libraries" with TypeScript.
 - [vite-plugin-google-apps-script](https://github.com/luthpg/vite-plugin-google-apps-script): Utility plugin to upload Vite-built HTML to GAS.
 - [rolldown-plugin-remove-export](https://github.com/luthpg/rolldown-plugin-remove-export): Rolldown plugin for cleaning exports.
+
+### WebApps
 - [linkbox](https://github.com/luthpg/linkbox): Simple link management tool. [Try it here!](https://linkbox.ciderjs.com/)
+  - Next.js, TypeScript-JSX, TailwindCSS, Shadcn/ui, Clerk, Convex, Biome, Vercel
+- [transit-line](https://github.com/luthpg/transit-line): Transit Search and notify to LINE.
+  - Honox, TypeScript-JSX, TailwindCSS, LINE Messaging API, LINE LIFF, Biome, Cloudflare Workers
 - [harukaze](https://github.com/luthpg/harukaze-days): Simple app for recording date and time.
+  - React, TypeScript-JSX, Vite, Tanstack Router, Shadcn/ui, Supabase, Supabase Auth, Hono (on [Server App](https://github.com/luthpg/harukaze-server/)), Biome, Vercel
 
 ---
 
