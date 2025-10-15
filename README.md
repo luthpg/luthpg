@@ -17,10 +17,15 @@ I love building tools that make life easier — especially with Google Apps Scri
 
 ### Development Tools
 - [@ciderjs/gasnuki](https://github.com/luthpg/gasnuki): GAS utility for modern workflows.
+  [![npm version](https://img.shields.io/npm/v/@ciderjs/gasnuki.svg)](https://www.npmjs.com/package/@ciderjs/gasnuki)
 - [@ciderjs/gasbombe](https://github.com/luthpg/gasbombe): Project Generator for Google Apps Script.
+  [![npm version](https://img.shields.io/npm/v/@ciderjs/gasbombe.svg)](https://www.npmjs.com/package/@ciderjs/gasbombe)
 - [@ciderjs/dgs](https://github.com/luthpg/dgs): Utility library to handle Google Apps Script "Libraries" with TypeScript.
+  [![npm version](https://img.shields.io/npm/v/@ciderjs/dgs.svg)](https://www.npmjs.com/package/@ciderjs/dgs)
 - [vite-plugin-google-apps-script](https://github.com/luthpg/vite-plugin-google-apps-script): Utility plugin to upload Vite-built HTML to GAS.
+  [![npm version](https://img.shields.io/npm/v/vite-plugin-google-apps-script.svg)](https://www.npmjs.com/package/vite-plugin-google-apps-script)
 - [rolldown-plugin-remove-export](https://github.com/luthpg/rolldown-plugin-remove-export): Rolldown plugin for cleaning exports.
+  [![npm version](https://img.shields.io/npm/v/rolldown-plugin-remove-export)](https://www.npmjs.com/package/rolldown-plugin-remove-export)
 
 ### WebApps
 - [linkbox](https://github.com/luthpg/linkbox): Simple link management tool. [Try it here!](https://linkbox.ciderjs.com/)
