@@ -20,6 +20,8 @@ I love building tools that make life easier — especially with Google Apps Scri
   [![npm version](https://img.shields.io/npm/v/@ciderjs/gasnuki.svg)](https://www.npmjs.com/package/@ciderjs/gasnuki)
 - [@ciderjs/gasbombe](https://github.com/luthpg/gasbombe): Project Generator for Google Apps Script.
   [![npm version](https://img.shields.io/npm/v/@ciderjs/gasbombe.svg)](https://www.npmjs.com/package/@ciderjs/gasbombe)
+- [@ciderjs/city-gas](https://github.com/luthpg/city-gas): TypeScript Router library for Google Apps Script.
+  [![npm version](https://img.shields.io/npm/v/@ciderjs/city-gas.svg)](https://www.npmjs.com/package/@ciderjs/city-gas)
 - [@ciderjs/dgs](https://github.com/luthpg/dgs): Utility library to handle Google Apps Script "Libraries" with TypeScript.
   [![npm version](https://img.shields.io/npm/v/@ciderjs/dgs.svg)](https://www.npmjs.com/package/@ciderjs/dgs)
 - [vite-plugin-google-apps-script](https://github.com/luthpg/vite-plugin-google-apps-script): Utility plugin to upload Vite-built HTML to GAS.
