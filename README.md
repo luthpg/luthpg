@@ -42,6 +42,12 @@ I love building tools that make life easier — especially with Google Apps Scri
   - Honox, TypeScript-JSX, TailwindCSS, LINE Messaging API, LINE LIFF, Biome, Cloudflare Workers
 - [harukaze](https://github.com/luthpg/harukaze-days): Simple app for recording date and time.
   - React, TypeScript-JSX, Vite, Tanstack Router, Shadcn/ui, Supabase, Supabase Auth, Hono (on [Server App](https://github.com/luthpg/harukaze-server/)), Biome, Vercel
+- [shadcn custom registry](https://github.com/luthpg/): Custom components for downloading via shadcn. [Website](https://ciderjs-shadcn-ui.vercel.app)
+  + Currency input
+  + Lined textarea
+  + Colored avatar
+  + Codeblock
+  - Next.js, TypeScript-JSX, TailwindCSS, Shadcn/ui, Biome, Vercel
 
 ---
 
