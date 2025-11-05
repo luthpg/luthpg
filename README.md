@@ -25,6 +25,9 @@ I love building tools that make life easier — especially with Google Apps Scri
 - [@ciderjs/city-gas](https://github.com/luthpg/city-gas): 
   TypeScript Router library for Google Apps Script.<br/>
   [![npm version](https://img.shields.io/npm/v/@ciderjs/city-gas.svg)](https://www.npmjs.com/package/@ciderjs/city-gas)
+- [@ciderjs/clasp-auth](https://github.com/ciderjs/clasp-auth): 
+  CI/CD helper for @google/clasp authentication.<br/>
+  [![npm version](https://img.shields.io/npm/v/@ciderjs/clasp-auth.svg)](https://www.npmjs.com/package/@ciderjs/clasp-auth)
 - [@ciderjs/dgs](https://github.com/luthpg/dgs): 
   Utility library to handle Google Apps Script "Libraries" with TypeScript.<br/>
   [![npm version](https://img.shields.io/npm/v/@ciderjs/dgs.svg)](https://www.npmjs.com/package/@ciderjs/dgs)
