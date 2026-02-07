@@ -28,6 +28,9 @@ I love building tools that make life easier — especially with Google Apps Scri
 - [@ciderjs/clasp-auth](https://github.com/ciderjs/clasp-auth): 
   CI/CD helper for @google/clasp authentication.<br/>
   [![npm version](https://img.shields.io/npm/v/@ciderjs/clasp-auth.svg)](https://www.npmjs.com/package/@ciderjs/clasp-auth)
+- [@ciderjs/vitest-plugin-gas-mock](https://github.com/luthpg/vitest-plugin-gas-mock): 
+  Vitest plugin to mock Google Apps Script environment.<br/>
+  [![npm version](https://img.shields.io/npm/v/@ciderjs/vitest-plugin-gas-mock.svg)](https://www.npmjs.com/package/@ciderjs/vitest-plugin-gas-mock)
 - [@ciderjs/dgs](https://github.com/luthpg/dgs): 
   Utility library to handle Google Apps Script "Libraries" with TypeScript.<br/>
   [![npm version](https://img.shields.io/npm/v/@ciderjs/dgs.svg)](https://www.npmjs.com/package/@ciderjs/dgs)
