@@ -74,8 +74,8 @@ I love building tools that make life easier — especially with Google Apps Scri
 ## Github Stats
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthpg&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=luthpg&theme=tokyonight&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-forked-by-luth.vercel.app/api/top-langs/?username=luthpg&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-forked-by-luth.vercel.app/api?username=luthpg&theme=tokyonight&show_icons=ture" />
 </p>
 
 ---
