@@ -1,11 +1,9 @@
 # Hi, I'm luth 👋
 
-<p align="left">
-  <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)" alt="TypeScript" />
-  <img src="[https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white)" alt="GAS" />
-  <img src="[https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)" alt="React" />
-  <img src="[https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)" alt="Vue" />
-</p>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white)](https://developers.google.com/apps-script)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 
 > **“Turning daily hassles into comfort.”**  
 > OSS Developer & Full-Stack Enthusiast passionate about automation, web applications, and supercharging developer experiences.
@@ -62,16 +60,11 @@ A collection of libraries and tools designed to bring modern web development exp
 
 ## 📊 Stats
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="[https://github-readme-stats-forked-by-luth.vercel.app/api/top-langs/?username=luthpg&layout=compact&show_icons=true&theme=tokyonight](https://github-readme-stats-forked-by-luth.vercel.app/api/top-langs/?username=luthpg&layout=compact&show_icons=true&theme=tokyonight)" />
-  <img alt="github stats" height="150px" src="[https://github-readme-stats-forked-by-luth.vercel.app/api?username=luthpg&theme=tokyonight&show_icons=ture](https://github-readme-stats-forked-by-luth.vercel.app/api?username=luthpg&theme=tokyonight&show_icons=ture)" />
-</p>
+![Top Langs](https://github-readme-stats-forked-by-luth.vercel.app/api/top-langs/?username=luthpg&layout=compact&show_icons=true&theme=tokyonight)
 
-<p align="left">
-  <a href="[https://zenn.dev/luth](https://zenn.dev/luth)">
-    <img src="[https://github-readme-blog-score.vercel.app/api/get_zenn_score?zennId=luth&v=2](https://github-readme-blog-score.vercel.app/api/get_zenn_score?zennId=luth&v=2)" alt="Zenn Status" />
-  </a>
-</p>
+![github stats](https://github-readme-stats-forked-by-luth.vercel.app/api?username=luthpg&theme=tokyonight&show_icons=true)
+
+[![Zenn Status](https://github-readme-blog-score.vercel.app/api/get_zenn_score?zennId=luth&v=2)]([https://zenn.dev/luth](https://zenn.dev/luth))
 
 ---
 Thanks for stopping by! 😊
