@@ -1,109 +1,77 @@
 # Hi, I'm luth 👋
 
-**Junior Developer** passionate about automation and web-apps.  
-I love building tools that make life easier — especially with Google Apps Script and TypeScript!
+<p align="left">
+  <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)" alt="TypeScript" />
+  <img src="[https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white)" alt="GAS" />
+  <img src="[https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)" alt="React" />
+  <img src="[https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)" alt="Vue" />
+</p>
+
+> **“Turning daily hassles into comfort.”**  
+> OSS Developer & Full-Stack Enthusiast passionate about automation, web applications, and supercharging developer experiences.
+
+I love building tools that bridge the gap between heavy automation and modern web frontends—specializing in crafting high-quality TypeScript ecosystems for Google Apps Script.
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack & Ecosystem
 
-- **Google Apps Script**
-- **TypeScript**, JavaScript
-- **React**, **Vue.js**@3.x
+### Built with & Loving
+- **Languages:** TypeScript, JavaScript, HTML5/CSS3
+- **Frontend:** React, Next.js, Vue.js (3.x), TanStack Start, HonoX, TailwindCSS, shadcn/ui
+- **Backend / BaaS:** Hono, Cloudflare Workers, Convex, Supabase, Firebase
+- **Tooling:** Vite, Rolldown, Biome
 
 ---
 
 ## 🌟 Featured Projects
 
-### Development Tools
-- [@ciderjs/gasnuki](https://github.com/luthpg/gasnuki): 
-  Typed-connector for Google Apps Script and Frontend.<br/>
-  [![npm version](https://img.shields.io/npm/v/@ciderjs/gasnuki.svg)](https://www.npmjs.com/package/@ciderjs/gasnuki)
-  [![NPM Downloads](https://img.shields.io/npm/dm/@ciderjs/gasnuki)](https://www.npmjs.com/package/@ciderjs/gasnuki)
-  [![install size](https://packagephobia.com/badge?p=@ciderjs/gasnuki)](https://packagephobia.com/result?p=@ciderjs/gasnuki)
-- [@ciderjs/gasbombe](https://github.com/luthpg/gasbombe): 
-  Project Generator for Google Apps Script.<br/>
-  [![npm version](https://img.shields.io/npm/v/@ciderjs/gasbombe.svg)](https://www.npmjs.com/package/@ciderjs/gasbombe)
-  [![NPM Downloads](https://img.shields.io/npm/dm/@ciderjs/gasbombe)](https://www.npmjs.com/package/@ciderjs/gasbombe)
-  [![install size](https://packagephobia.com/badge?p=@ciderjs/gasbombe)](https://packagephobia.com/result?p=@ciderjs/gasbombe)
-- [@ciderjs/city-gas](https://github.com/luthpg/city-gas): 
-  TypeScript Router library for Google Apps Script.<br/>
-  [![npm version](https://img.shields.io/npm/v/@ciderjs/city-gas.svg)](https://www.npmjs.com/package/@ciderjs/city-gas)
-  [![NPM Downloads](https://img.shields.io/npm/dm/@ciderjs/city-gas)](https://www.npmjs.com/package/@ciderjs/city-gas)
-  [![install size](https://packagephobia.com/badge?p=@ciderjs/city-gas)](https://packagephobia.com/result?p=@ciderjs/city-gas)
-- [@ciderjs/clasp-auth](https://github.com/ciderjs/clasp-auth): 
-  CI/CD helper for @google/clasp authentication.<br/>
-  [![npm version](https://img.shields.io/npm/v/@ciderjs/clasp-auth.svg)](https://www.npmjs.com/package/@ciderjs/clasp-auth)
-  [![NPM Downloads](https://img.shields.io/npm/dm/@ciderjs/clasp-auth)](https://www.npmjs.com/package/@ciderjs/clasp-auth)
-  [![install size](https://packagephobia.com/badge?p=@ciderjs/clasp-auth)](https://packagephobia.com/result?p=@ciderjs/clasp-auth)
-- [@ciderjs/vitest-plugin-gas-mock](https://github.com/luthpg/vitest-plugin-gas-mock): 
-  Vitest plugin to mock Google Apps Script environment.<br/>
-  [![npm version](https://img.shields.io/npm/v/@ciderjs/vitest-plugin-gas-mock.svg)](https://www.npmjs.com/package/@ciderjs/vitest-plugin-gas-mock)
-  [![NPM Downloads](https://img.shields.io/npm/dm/@ciderjs/vitest-plugin-gas-mock)](https://www.npmjs.com/package/@ciderjs/vitest-plugin-gas-mock)
-  [![install size](https://packagephobia.com/badge?p=@ciderjs/vitest-plugin-gas-mock)](https://packagephobia.com/result?p=@ciderjs/vitest-plugin-gas-mock)
-- [@ciderjs/dgs](https://github.com/luthpg/dgs): 
-  Utility library to handle Google Apps Script "Libraries" with TypeScript.<br/>
-  [![npm version](https://img.shields.io/npm/v/@ciderjs/dgs.svg)](https://www.npmjs.com/package/@ciderjs/dgs)
-  [![NPM Downloads](https://img.shields.io/npm/dm/@ciderjs/dgs)](https://www.npmjs.com/package/@ciderjs/dgs)
-  [![install size](https://packagephobia.com/badge?p=@ciderjs/dgs)](https://packagephobia.com/result?p=@ciderjs/dgs)
-- [vite-plugin-google-apps-script](https://github.com/luthpg/vite-plugin-google-apps-script): 
-  Utility plugin to upload Vite-built HTML to GAS.<br/>
-  [![npm version](https://img.shields.io/npm/v/vite-plugin-google-apps-script.svg)](https://www.npmjs.com/package/vite-plugin-google-apps-script)
-  [![NPM Downloads](https://img.shields.io/npm/dm/vite-plugin-google-apps-script)](https://www.npmjs.com/package/vite-plugin-google-apps-script)
-  [![install size](https://packagephobia.com/badge?p=vite-plugin-google-apps-script)](https://packagephobia.com/result?p=vite-plugin-google-apps-script)
-- [rolldown-plugin-remove-export](https://github.com/luthpg/rolldown-plugin-remove-export): 
-  Rolldown plugin for cleaning exports.<br/>
-  [![npm version](https://img.shields.io/npm/v/rolldown-plugin-remove-export)](https://www.npmjs.com/package/rolldown-plugin-remove-export)
-  [![NPM Downloads](https://img.shields.io/npm/dm/rolldown-plugin-remove-export)](https://www.npmjs.com/package/rolldown-plugin-remove-export)
-  [![install size](https://packagephobia.com/badge?p=rolldown-plugin-remove-export)](https://packagephobia.com/result?p=rolldown-plugin-remove-export)
+### 🚀 Google Apps Script DX Ecosystem (`@ciderjs`)
+A collection of libraries and tools designed to bring modern web development experiences to Google Apps Script.
 
-### WebApps
-- [linkbox](https://github.com/luthpg/linkbox): Simple link management tool. [Try it here!](https://linkbox.ciderlabs.link/)
-  - Next.js, TypeScript-JSX, TailwindCSS, Shadcn/ui, Clerk, Convex, Biome, Vercel
-- [PoohMa](https://github.com/luthpg/poohma-start): Family account manager. [Try it here!](https://poohma.ciderlabs.link/)
-  - Tanstack Start, TypeScript-JSX, TailwindCSS, Shadcn/ui, Firebase Auth, Convex, Resend, Biome, Vercel
-- [transit-line](https://github.com/luthpg/transit-line): Transit Search and notify to LINE.
-  - Honox, TypeScript-JSX, TailwindCSS, LINE Messaging API, LINE LIFF, Biome, Cloudflare Workers
-- [harukaze](https://github.com/luthpg/harukaze-days): Simple app for recording date and time.
-  - React, TypeScript-JSX, Vite, Tanstack Router, Shadcn/ui, Supabase, Supabase Auth, Hono (on [Server App](https://github.com/luthpg/harukaze-server/)), Biome, Vercel
-- [shadcn custom registry](https://github.com/luthpg/): Custom components for downloading via shadcn. [Website](https://ciderjs-shadcn-ui.vercel.app)
-  + Currency input
-  + Lined textarea
-  + Colored avatar
-  + Codeblock
-    - Next.js, TypeScript-JSX, TailwindCSS, Shadcn/ui, Biome, Vercel
+| Project | Description | Badges |
+| :--- | :--- | :--- |
+| **[@ciderjs/gasnuki](https://github.com/luthpg/gasnuki)** | Typed-connector for Google Apps Script and Frontend. | [![npm](https://img.shields.io/npm/v/@ciderjs/gasnuki.svg?style=flat-square)](https://www.npmjs.com/package/@ciderjs/gasnuki) [![downloads](https://img.shields.io/npm/dm/@ciderjs/gasnuki?style=flat-square)](https://www.npmjs.com/package/@ciderjs/gasnuki) |
+| **[@ciderjs/gasbombe](https://github.com/luthpg/gasbombe)** | Project Generator for Google Apps Script. | [![npm](https://img.shields.io/npm/v/@ciderjs/gasbombe.svg?style=flat-square)](https://www.npmjs.com/package/@ciderjs/gasbombe) [![downloads](https://img.shields.io/npm/dm/@ciderjs/gasbombe?style=flat-square)](https://www.npmjs.com/package/@ciderjs/gasbombe) |
+| **[@ciderjs/city-gas](https://github.com/luthpg/city-gas)** | TypeScript Router library for Google Apps Script. | [![npm](https://img.shields.io/npm/v/@ciderjs/city-gas.svg?style=flat-square)](https://www.npmjs.com/package/@ciderjs/city-gas) [![downloads](https://img.shields.io/npm/dm/@ciderjs/city-gas?style=flat-square)](https://www.npmjs.com/package/@ciderjs/city-gas) |
+| **[@ciderjs/clasp-auth](https://github.com/ciderjs/clasp-auth)** | CI/CD helper for `@google/clasp` authentication. | [![npm](https://img.shields.io/npm/v/@ciderjs/clasp-auth.svg?style=flat-square)](https://www.npmjs.com/package/@ciderjs/clasp-auth) [![downloads](https://img.shields.io/npm/dm/@ciderjs/clasp-auth?style=flat-square)](https://www.npmjs.com/package/@ciderjs/clasp-auth) |
+| **[@ciderjs/vitest-plugin-gas-mock](https://github.com/luthpg/vitest-plugin-gas-mock)** | Vitest plugin to mock Google Apps Script environment. | [![npm](https://img.shields.io/npm/v/@ciderjs/vitest-plugin-gas-mock.svg?style=flat-square)](https://www.npmjs.com/package/@ciderjs/vitest-plugin-gas-mock) [![downloads](https://img.shields.io/npm/dm/@ciderjs/vitest-plugin-gas-mock?style=flat-square)](https://www.npmjs.com/package/@ciderjs/vitest-plugin-gas-mock) |
+| **[@ciderjs/dgs](https://github.com/luthpg/dgs)** | Utility library to handle GAS "Libraries" with TypeScript. | [![npm](https://img.shields.io/npm/v/@ciderjs/dgs.svg?style=flat-square)](https://www.npmjs.com/package/@ciderjs/dgs) [![downloads](https://img.shields.io/npm/dm/@ciderjs/dgs?style=flat-square)](https://www.npmjs.com/package/@ciderjs/dgs) |
+
+### 🛠️ Build Tools & Plugins
+- **[vite-plugin-google-apps-script](https://github.com/luthpg/vite-plugin-google-apps-script)**: Utility plugin to upload Vite-built HTML to GAS.
+- **[rolldown-plugin-remove-export](https://github.com/luthpg/rolldown-plugin-remove-export)**: Rolldown plugin for cleaning exports.
+
+### 🌐 Web Applications
+- 📦 **[linkbox](https://github.com/luthpg/linkbox)** - Simple link management tool. `[Next.js, TailwindCSS, Shadcn/ui, Clerk, Convex]` ・ [Try it here!](https://linkbox.ciderlabs.link/)
+- 🏠 **[PoohMa](https://github.com/luthpg/poohma-start)** - Family account manager. `[Tanstack Start, TailwindCSS, Shadcn/ui, Firebase Auth, Convex]` ・ [Try it here!](https://poohma.ciderlabs.link/)
+- 🚌 **[transit-line](https://github.com/luthpg/transit-line)** - Transit Search and notify to LINE. `[Honox, LINE Messaging API, Cloudflare Workers]`
+- 📅 **[harukaze](https://github.com/luthpg/harukaze-days)** - Simple app for recording date and time. `[React, Vite, Tanstack Router, Supabase, Hono]`
+- 🎨 **[shadcn custom registry](https://github.com/luthpg/)** - Custom components for downloading via shadcn. `[Next.js, TailwindCSS]` ・ [Website](https://ciderjs-shadcn-ui.vercel.app)
 
 ---
 
-## ✨ Portfolio
+## ✨ Portfolio & Articles
 
 - 📘 [Zenn](https://zenn.dev/luth)
 - 📚 [Qiita](https://qiita.com/luth)
 - 🧑‍💻 [Lapras](https://lapras.com/public/luth)
+- 🐤 [X (Twitter)](https://x.com/luth_pg)
 
 ---
 
-## ✉ Connect with Me
-
-- 🐤 [X(Twitter)](https://x.com/luth_pg)
-
----
-
-## Github Stats
+## 📊 Stats
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-forked-by-luth.vercel.app/api/top-langs/?username=luthpg&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-forked-by-luth.vercel.app/api?username=luthpg&theme=tokyonight&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="[https://github-readme-stats-forked-by-luth.vercel.app/api/top-langs/?username=luthpg&layout=compact&show_icons=true&theme=tokyonight](https://github-readme-stats-forked-by-luth.vercel.app/api/top-langs/?username=luthpg&layout=compact&show_icons=true&theme=tokyonight)" />
+  <img alt="github stats" height="150px" src="[https://github-readme-stats-forked-by-luth.vercel.app/api?username=luthpg&theme=tokyonight&show_icons=ture](https://github-readme-stats-forked-by-luth.vercel.app/api?username=luthpg&theme=tokyonight&show_icons=ture)" />
+</p>
+
+<p align="left">
+  <a href="[https://zenn.dev/luth](https://zenn.dev/luth)">
+    <img src="[https://github-readme-blog-score.vercel.app/api/get_zenn_score?zennId=luth&v=2](https://github-readme-blog-score.vercel.app/api/get_zenn_score?zennId=luth&v=2)" alt="Zenn Status" />
+  </a>
 </p>
 
 ---
-
-## Zenn Status
-
-[![](https://github-readme-blog-score.vercel.app/api/get_zenn_score?zennId=luth&v=2)](https://zenn.dev/luth)
-
----
-
-> “Turning daily hassles into comfort.”
-
 Thanks for stopping by! 😊
